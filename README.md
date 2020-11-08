@@ -1,5 +1,5 @@
 # BMD-MoG
-The code file for paper BMD-MoG. The main function is `BMD_MoG`
+The code file for paper "Robust Bayesian Matrix Decomposition with Mixture of Gaussian Noise". The main function is `BMD_MoG`
 ``` matlab
 function [label,model,OutU,OutV,llh,converged,t] = BMD_MoG(InX,r,param)
 % function [label,model,OutU,OutV,llh,converged,t] = BMD_MoG(InX,r,param)
