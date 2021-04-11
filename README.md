@@ -30,3 +30,13 @@ function [label,model,OutU,OutV,llh,converged,t] = BMD_MoG(InX,r,param)
 %   llh:  the log likelihood
 %
 ```
+## Citation
+```
+@article{Wang2021,
+  title={Robust Bayesian Matrix Decomposition with Mixture of Gaussian Noise},
+  author={Wang, Haohui and Zhang, Chihao and Zhang, Shihua},
+  journal={Neurocomputing},
+  year={2021},
+  publisher={Elsevier}
+}
+```
